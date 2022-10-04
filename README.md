@@ -1,5 +1,5 @@
 # jazzbeans
-# jazzbeans
+
 
 [Trello Board](https://trello.com/b/PJWRIjXH/e-comerce-php)
 
