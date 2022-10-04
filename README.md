@@ -20,6 +20,7 @@
 - Ajax    
 - PHP ,MySQL Database 
 
-[Organization Github](https://github.com/jazzbeans/jazzbeans)
-[Trello link](https://trello.com/b/PJWRIjXH/e-comerce-php)
-[wireframe&figma link](https://drive.google.com/file/d/1SpGmXob7yVxg2Inf9aucy9fRct5zuKhw/view)
+[Organization Github](https://github.com/jazzbeans/jazzbeans).
+
+
+[wireframe&figma](https://drive.google.com/file/d/1SpGmXob7yVxg2Inf9aucy9fRct5zuKhw/view)
